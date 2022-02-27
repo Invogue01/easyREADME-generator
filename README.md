@@ -30,17 +30,17 @@
 ---
 
   ### User Story
-  
+  CLONE or Fork Repository into your machine
+  OPEN Terminal and run: node index.js to start Questions
+  AFTER all questions been answered RENAME generated readme file to README.md
+  INSIDE your newly generated readme file use CMD+Click to fill in User Story an other information if required for your Project.
+  LASTLY Git add, commit and push your completed README.md file
 
----
-
-  ### Acceptance Criteria
-  
-  
+--- 
 ---
   ## Visuals:
 
-  ![]()
+  ![Programme Image](/images/readme.png)
 
 ---
 
